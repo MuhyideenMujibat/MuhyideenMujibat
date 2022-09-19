@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhyideenMujibat
-- 👀 I’m interested in html,css,wordpress and php
+- 👀 I’m interested in html,css,wordpress,php and typescript/javascript
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on fronted and backend project
 - 📫 How to reach me MuhyideenMujibat@gmail.com
