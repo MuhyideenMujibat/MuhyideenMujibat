@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhyideenMujibat
+- 👋 Hi, I’m @MuhyideenMujibat.
 - 👀 I’m interested in html,css,wordpress,php and typescript/javascript
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on fronted and backend project
