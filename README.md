@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhyideenMujibat.
 - 👀 I’m interested in html,css,wordpress,php and typescript/javascript
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on fronted and backend project
 - 📫 How to reach me MuhyideenMujibat@gmail.com
 
