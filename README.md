@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm 
-Muhyideen Mujibat Olaide</h1>
+<h1 align="center">Hi 👋, I'm Muhyideen Mujibat Olaide</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
 - 🌱 I’m currently learning **Laravel**
