@@ -2,7 +2,6 @@
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
 
-
 - 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **HTML CSS, Typescript, JavaScript, Laravel**
