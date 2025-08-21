@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m a **Full-Stack Developer** with expertise in **Laravel, PHP, JavaScript, TypeScript, and modern web technologies**.  
-- 🛠️ Proficient in using **DevOps tools** such as **Git, GitHub, AWS, FileZilla**, and deployment workflows (not a DevOps engineer, but skilled at leveraging the tools).  
+- 🛠️ Proficient in using **DevOps tools** such as **Git, GitHub, AWS, FileZilla**, and deployment workflows.  
 - 💡 Passionate about building **scalable applications**, delivering **clean UI/UX**, and solving real-world problems.  
 - 💬 Ask me about **Laravel, PHP, JavaScript, TypeScript, Git, AWS, Node.js, MySQL**.  
 - 📫 Reach me at: **muhyideenmujibat@gmail.com**  
